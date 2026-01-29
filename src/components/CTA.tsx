@@ -28,7 +28,7 @@ const CTA = () => {
 
           {/* Heading */}
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-display font-bold text-cream mb-6 animate-fade-in" style={{ animationDelay: '0.1s' }}>
-            Sudah Lapar?{' '}
+            lapar ki?{' '}
             <span className="text-gradient-gold">Pesan Sekarang!</span>
           </h2>
 
@@ -45,7 +45,7 @@ const CTA = () => {
               size="lg"
               className="bg-gold hover:bg-gold-dark text-maroon-dark font-bold px-10 py-7 rounded-full text-lg transition-all duration-300 hover:scale-105 shadow-xl shadow-gold/30"
             >
-              <a href="https://wa.me/6282127081744" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282141584133" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="w-6 h-6 mr-2" />
                 Pesan via WhatsApp
               </a>
@@ -56,7 +56,7 @@ const CTA = () => {
               size="lg"
               className="border-cream/30 bg-cream/10 text-cream hover:bg-cream hover:text-maroon-dark font-bold px-10 py-7 rounded-full text-lg transition-all duration-300"
             >
-              <a href="tel:082127081744">
+              <a href="tel:082141584133">
                 <Phone className="w-6 h-6 mr-2" />
                 Telepon Langsung
               </a>

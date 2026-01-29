@@ -9,13 +9,13 @@ const Footer = () => {
     {
       name: 'Instagram',
       icon: Instagram,
-      url: 'https://instagram.com/mariqcotomakassar',
+      url: 'https://instagram.com/@mariq.cotomakassar',
       color: 'hover:text-pink-500',
     },
     {
       name: 'Facebook',
       icon: Facebook,
-      url: 'https://facebook.com/mariqcotomakassar',
+      url: 'https://facebook.com/@mariq cotomakassar',
       color: 'hover:text-blue-500',
     },
   ];
@@ -69,7 +69,7 @@ const Footer = () => {
               ))}
               {/* TikTok */}
               <a
-                href="https://tiktok.com/@mariqcotomakassar"
+                href="https://tiktok.com/@mariq.cotomakassar"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-cream/10 rounded-full flex items-center justify-center text-cream transition-all duration-300 hover:text-white hover:bg-cream/20"
@@ -113,12 +113,8 @@ const Footer = () => {
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-gold flex-shrink-0" />
                 <div className="text-cream/70 text-sm">
-                  <a href="tel:082127081744" className="hover:text-gold transition-colors">
-                    082127081744
-                  </a>
-                  {' / '}
-                  <a href="tel:082245766262" className="hover:text-gold transition-colors">
-                    082245766262
+                  <a href="tel:6282141584133" className="hover:text-gold transition-colors">
+                    6282141584133
                   </a>
                 </div>
               </li>

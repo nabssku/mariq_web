@@ -71,7 +71,7 @@ const Hero = () => {
                 asChild
                 variant="outline"
                 size="lg"
-                className="border-cream/30 text-cream hover:bg-cream/10 font-semibold px-8 py-6 rounded-full text-lg transition-all duration-300"
+                className="bg-gold border-cream/30 text-cream hover:bg-cream/10 font-semibold px-8 py-6 rounded-full text-lg transition-all duration-300"
               >
                 <a href="#menu">
                   Lihat Menu

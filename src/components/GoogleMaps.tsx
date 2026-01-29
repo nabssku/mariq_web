@@ -15,12 +15,12 @@ const GoogleMaps = () => {
     {
       icon: Clock,
       title: 'Jam Operasional',
-      content: 'Setiap Hari: 07.00 - 15.00 WIB',
+      content: 'Setiap Hari: 08.00 - 21.00 WIB',
     },
     {
       icon: Phone,
       title: 'Telepon / WhatsApp',
-      content: '082127081744 / 082245766262',
+      content: '6282141584133',
     },
   ];
 

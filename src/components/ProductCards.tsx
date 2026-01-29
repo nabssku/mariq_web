@@ -18,21 +18,14 @@ interface MenuItem {
 const menuItems: MenuItem[] = [
   {
     id: 1,
-    name: 'Coto Makassar',
+    name: 'Coto Makassar Daging',
     description: 'Sup daging sapi khas Makassar dengan bumbu rempah pilihan, disajikan dengan ketupat atau nasi',
-    price: 'Rp 25.000',
+    price: 'Rp 28.000',
     image: cotoMakassar,
     isPopular: true,
   },
   {
     id: 2,
-    name: 'Pallubasa',
-    description: 'Hidangan khas Makassar dengan kuah santan kental, daging sapi empuk, dan kelapa parut',
-    price: 'Rp 28.000',
-    image: pallubasa,
-  },
-  {
-    id: 3,
     name: 'Ketupat',
     description: 'Ketupat tradisional yang dibuat fresh setiap hari, pelengkap sempurna untuk coto',
     price: 'Rp 5.000',
