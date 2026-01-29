@@ -4,7 +4,7 @@ import ornamentPattern from '@/assets/ornament-pattern.png';
 
 const GoogleMaps = () => {
   // Coordinates for Jl. Warinoi V No. 2, Bunulrejo, Blimbing Kota Malang
-  const mapEmbedUrl = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.5036961!2d112.6469!3d-7.9576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd62825a9f42d1f%3A0x7f6d41f0c6e8b0a!2sJl.%20Warinoi%20V%20No.2%2C%20Bunulrejo%2C%20Kec.%20Blimbing%2C%20Kota%20Malang%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1699000000000!5m2!1sid!2sid";
+  const mapEmbedUrl = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10041514.423959568!2d112.6499141!3d-7.9701977!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd629505489e1a7%3A0xeae639b686e49a09!2sMariQ%20Spesialis%20Coto%20Makassar!5e1!3m2!1sid!2sid!4v1769708529283!5m2!1sid!2sid";
 
   const contactInfo = [
     {
@@ -20,7 +20,7 @@ const GoogleMaps = () => {
     {
       icon: Phone,
       title: 'Telepon / WhatsApp',
-      content: '6282141584133',
+      content: '082127081744 / 082245766262',
     },
   ];
 
@@ -46,7 +46,7 @@ const GoogleMaps = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Map */}
           <div className="relative rounded-2xl overflow-hidden shadow-2xl animate-fade-in">
-            <div className="absolute inset-0 border-4 border-gold/30 rounded-2xl pointer-events-none z-10" />
+          
             <iframe
               src={mapEmbedUrl}
               width="100%"
@@ -89,7 +89,7 @@ const GoogleMaps = () => {
               className="w-full bg-primary hover:bg-maroon-light text-primary-foreground font-semibold py-6 rounded-xl text-lg transition-all duration-300 shadow-lg"
             >
               <a
-                href="https://www.google.com/maps/search/?api=1&query=Jl.+Warinoi+V+No.2,+Bunulrejo,+Blimbing+Kota+Malang"
+                href="https://maps.app.goo.gl/Hgidh1aHJZLGzeCm7"
                 target="_blank"
                 rel="noopener noreferrer"
               >
