@@ -96,7 +96,7 @@ const ProductCards = () => {
                   asChild
                   className="w-full bg-primary hover:bg-maroon-light text-primary-foreground font-semibold rounded-lg transition-all duration-300"
                 >
-                  <a href="https://wa.me/6282127081744" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/6282141584133" target="_blank" rel="noopener noreferrer">
                     <ShoppingBag className="w-4 h-4 mr-2" />
                     Pesan Sekarang
                   </a>

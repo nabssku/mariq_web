@@ -62,7 +62,7 @@ const Hero = () => {
                 size="lg"
                 className="bg-gold hover:bg-gold-dark text-maroon-dark font-semibold px-8 py-6 rounded-full text-lg transition-all duration-300 hover:scale-105 shadow-lg shadow-gold/25"
               >
-                <a href="https://wa.me/6282127081744" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/6282141584133" target="_blank" rel="noopener noreferrer">
                   <Phone className="w-5 h-5 mr-2" />
                   Pesan via WhatsApp
                 </a>

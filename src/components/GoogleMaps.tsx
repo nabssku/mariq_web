@@ -20,7 +20,7 @@ const GoogleMaps = () => {
     {
       icon: Phone,
       title: 'Telepon / WhatsApp',
-      content: '082127081744 / 082245766262',
+      content: '6282141584133',
     },
   ];
 

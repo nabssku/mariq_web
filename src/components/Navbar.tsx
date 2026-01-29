@@ -100,7 +100,7 @@ const Navbar = () => {
               asChild
               className="bg-gold hover:bg-gold-dark text-maroon-dark font-semibold px-6 py-2 rounded-full w-full mt-4"
             >
-              <a href="https://wa.me/6282127081744" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/6282141584133" target="_blank" rel="noopener noreferrer">
                 <Phone className="w-4 h-4 mr-2" />
                 Pesan Sekarang
               </a>
